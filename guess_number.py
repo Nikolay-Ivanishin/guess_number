@@ -15,7 +15,4 @@ while True:
     elif guess == number:
         break
 print('Отличная интуиция! Вы угадали число :)')
-'''
-commit
-'''
 
